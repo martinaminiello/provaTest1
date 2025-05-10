@@ -1,5 +1,7 @@
 
 
-number=5;
+number=6
 if number==5:
-    print("Hello wordl!")
+    print("Hello world!")
+else:
+    print("Not six")
